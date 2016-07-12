@@ -1,6 +1,6 @@
 no-vert-bar-lang
 ===
-a racket meta-language that reads `|` as a normal character
+a racket lang-extension that reads `|` as a normal character
 
 ```racket
 #lang no-vert-bar racket
